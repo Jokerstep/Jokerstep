@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7D417&center=true&vCenter=true&random=true&width=435&lines=Rise+and+shine+%E2%98%80)](https://git.io/typing-svg)
+
+
 
 <!--
 **Jokerstep/Jokerstep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
 -->
