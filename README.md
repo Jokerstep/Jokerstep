@@ -2,7 +2,7 @@
 <h3 dir="auto"><a id="user-content-about-me" class="anchor" aria-hidden="true" tabindex="-1" href="#about-me"></a>About Me</h3>
 <div dir="auto">
 <a target="_blank" rel="noopener noreferrer"><img align="left" width="25%" src="https://cdn.jsdelivr.net/gh/Jokerstep/picgo@main/imgs/202311161259310.jpg?raw=true" style="max-width: 100%;"></a>
-<p dir="auto">  大家好，我是 George </p>
+<p dir="auto">  大家好，我是 Jokerstep </p>
 <p dir="auto">  正在学习使用Github以及相关代码技能 </p>
 <p dir="auto"><strong>  ☀Contact me: <a href="https://t.me/Jokerstep"> Telegram® </a> </strong>
 </p></div>
